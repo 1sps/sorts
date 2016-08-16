@@ -1,0 +1,59 @@
+Tests of sort functions
+=======================
+
+# St: 2016-08-11 Thu 06:42 PM
+# Up: 2016-08-12 Fri 10:59 PM
+
+------------------------------------
+Filename:      bubble.c
+Sort function: bubble_sort
+Test status:   Initial test
+Result:        Pass
+
+Test Pending:  Intermediate test
+               Final test
+------------------------------------
+
+
+------------------------------------
+Filename:      selection.c
+Sort function: selection_sort
+Test status:   Initial test
+Result:        Pass
+
+Test Pending:  Intermediate test
+               Final test
+------------------------------------
+
+
+------------------------------------
+Filename:      insertion.c
+Sort function: insertion_sort
+Test status:   Initial test
+Result:        Pass
+
+Test Pending:  Intermediate test
+               Final test
+------------------------------------
+
+
+------------------------------------
+Filename:      quick.c
+Sort function: quick_sort
+Test status:   Initial test
+Result:        Pass
+
+Test Pending:  Intermediate test
+               Final test
+------------------------------------
+
+
+------------------------------------
+Filename:      merge.c
+Sort function: quick_sort
+Test status:   Initial test
+Result:        Pass
+
+Test Pending:  Intermediate test
+               Final test
+------------------------------------
